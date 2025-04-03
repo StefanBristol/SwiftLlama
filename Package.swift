@@ -15,7 +15,7 @@ let package = Package(
         .library(name: "SwiftLlama", targets: ["SwiftLlama"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/ggml-org/llama.cpp.git")
+        .package(url: "https://github.com/stefanbristol/llama.cpp.git")
     ],
     targets: [
         .target(name: "SwiftLlama", 
