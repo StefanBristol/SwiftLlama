@@ -6,9 +6,8 @@
       "location" : "https://github.com/ggml-org/llama.cpp/",
       "state" : {
         "branch" : "master",
-        "revision" : "b6d6c5289f1c9c677657c380591201ddb210b649"
+        "revision" : ""
       }
     }
   ],
-  "version" : 2
 }
