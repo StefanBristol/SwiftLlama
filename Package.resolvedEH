@@ -1,13 +1,13 @@
 {
-  "pins" : [
+  "pins": [
     {
-      "identity" : "llama.cpp",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/ggml-org/llama.cpp/",
-      "state" : {
-        "branch" : "master",
-        "revision" : ""
+      "identity": "llama.cpp",
+      "kind": "remoteSourceControl",
+      "location": "https://github.com/ggml-org/llama.cpp/",
+      "state": {
+        "branch": "master",
+        "revision": "2004644b7a5da6fe080e51861ab583480280f1d3"
       }
     }
-  ],
+  ]
 }
